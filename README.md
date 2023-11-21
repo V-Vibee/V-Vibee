@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web Scraping for Data Analytics**
 
-- 🌱 I’m currently learning **Enhancing and developing my skills**
+- 🌱 I’m currently learning **Machine learning and Building Models**
 
 - 💬 Ask me about **SQL, Tableau, PowerBI, Python**
 
