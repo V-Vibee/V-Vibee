@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-vibee&label=Profile%20views&color=0e75b6&style=flat" alt="v-vibee" /> </p>
 
-- 🔭 I’m currently working on **Web Scraping for Data Analytics**
+- 🔭 I’m currently working on **Data Science Projects & Building Machine Learning Models**
 
-- 🌱 I’m currently learning **Machine learning and Building Models**
+- 🌱 I’m currently learning **Time Series Model in Machine learning**
 
 - 💬 Ask me about **SQL, Tableau, PowerBI, Python**
 
