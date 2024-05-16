@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects & Building Machine Learning Models**
 
-- 🌱 I’m currently learning **Time Series Model in Machine learning**
+- 🌱 I’m currently learning **Deep learning Algorithms**
 
 - 💬 Ask me about **SQL, Tableau, PowerBI, Python**
 
