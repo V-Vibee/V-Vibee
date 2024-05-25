@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Deep learning Algorithms**
 
-- 📚 Specialized in Data Gaatherring, Data cleaning, Data Analysis, Data Visualization, Building ML Models.
+- 📚 Specialized in Data Gathering, Data cleaning, Data Analysis, Data Visualization, Machine Learning Models.
 
 - 💬 Ask me about **SQL, Tableau, PowerBI, Python**
 
