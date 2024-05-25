@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Deep learning Algorithms**
 
+- 📚 Specialized in Data Gaatherring, Data cleaning, Data Analysis, Data Visualization, Building ML Models.
+
 - 💬 Ask me about **SQL, Tableau, PowerBI, Python**
 
 - 📫 How to reach me **vipin83607@gmail.com**
